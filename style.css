@@ -58,6 +58,8 @@ img {
 }
 
 .svg-sh {
-    background-color: rebeccapurple;
-    height: 20px;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50px;
+    transform: translateY(-10px);
 }
